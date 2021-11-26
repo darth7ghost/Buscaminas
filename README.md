@@ -10,5 +10,5 @@ Click derecho: marcar una banderita.
 
 
 ### Desarrolladores:
--Hugo Cucul
--Oscar Sierra
+- Hugo Cucul
+- Oscar Sierra
